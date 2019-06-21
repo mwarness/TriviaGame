@@ -1,0 +1,129 @@
+ * {
+    box-sizing: border-box;
+}
+
+
+
+body {
+    text-align: center;
+    
+}
+
+#container {
+	padding: 5% 0;
+    width:100%;
+    margin: 75px auto;
+    background-image:url("https://www.twincities.com/wp-content/uploads/2017/10/mooseb1.jpg?w=1020");
+    background-size: cover;
+    height: 100%;
+   
+  
+ 
+}
+
+#subcontainer {
+	position: relative;
+    top: 20%;
+    /* background-color: whitesmoke; */
+    
+}
+
+#subcontainer h2 {
+	font-family: "Poppins";
+	font-size: 35px;
+    color:white;
+    background-color: red;;
+
+}
+
+#subcontainer h3 {
+	font-family:'Indie Flower';
+	color: whitesmoke;
+    font-size: 35px;
+    color:  black;
+    background-color: whitesmoke;
+}
+
+h1 {
+	font-family: 'Indie Flower' ;
+	font-size: 85px;
+	font-weight: bold;
+	color: whitesmoke;
+	padding: 10px 0px 10px 0px;
+    margin: 50px 0px 50px 0px;
+    color: whitesmoke
+}
+
+button {
+	font-family: 'Anton';
+    display: block;
+    
+    width: 125px;
+    height: 125px;
+    margin: 80px auto 0 auto;
+    cursor: pointer;
+  
+    font-size: 30px;
+    color: rgb(250, 4, 4);
+}
+
+h2 {
+	font-size: 50px;
+	margin-bottom: 35px
+}
+
+h3 {
+	font-size: 35px;
+	margin-bottom: 20px;
+}
+h6 {
+    color:black;
+    /* font-style: italic; */
+    background-color: gray;
+    display: inline-block;
+    font-family: "Press Start 2P"
+
+    
+}
+
+#start {
+    /* background-image: url("https://www.pngfind.com/pngs/m/296-2966623_finger-pointing-at-you-png-hand-pointing-at.png"); */
+    background-image: url("https://media2.giphy.com/media/oy6sgzD9nUOqs/200.gif");
+    background-size: cover;
+	margin-top: 10%;
+    border: 2px solid black;
+    color: orangered;
+  
+    background-position: center;
+	
+}
+
+#done {
+    margin-top: 10%;
+    
+	border: 2px solid black;
+    background-image: url(http://www.floppingaces.net/wp-content/uploads/2018/04/z.jpg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width:200px;
+    height: 135px;
+    
+}
+
+#play-area h2 {
+    margin-top: 50px;
+    font-family: "Poppins";
+    font-style: bold;
+    background-color: darkslategray;
+
+   
+
+
+
+}
+
+
+
+}
